@@ -1,15 +1,8 @@
 /**
- * A java script class to type in ethiopic languages. I've supported all the letters
+ * A javascript class to type in ethiopic languages. I've supported all the letters
  * from Amharic and Tigrigna. Most characters used for other languages like Guragna, Mursi should
  * be working as long as they have unicode entry.
  *
- * BUGS
- * =====
- * 1. [Fixed]If you cut and paste you may lose the typing cablity. This looks browser issue but
- *    I need to find a workaround
- * 2. No way to put new text in the middle of an existing text. I'm ashamed of this bug :)
- *    but less priorirty right now. will fix it once i'm done with basic stuff. thanks for your 
- * 	  patience.
  * 
  * please send bugs to my contact info below.
  *
