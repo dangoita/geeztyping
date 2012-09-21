@@ -1,6 +1,6 @@
 /**
  * A javascript class to type in ethiopic languages. I've supported all the letters
- * from Amharic and Tigrigna. Most characters used for other languages like Guragna, Mursi should
+ * from Amharic and Tigrigna. Characters used for other languages like Guragegna, Mursi should
  * be working as long as they have unicode entry.
  *
  * 
